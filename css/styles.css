@@ -1,10 +1,22 @@
 body {
   background-color: #60A9A6;
+  margin: 0;
+}
+p {
+  color: #f4f9f4;
+  text-align: center;
 }
 
 h1{
-  color: white;
+  color: #f4f9f4;
+  text-align: center;
+  margin: 0 auto 0 auto;
 }
+
+img {
+   margin-left: 530px;
+}
+
 
 h3{
   color: white;
