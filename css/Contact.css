@@ -1,0 +1,22 @@
+body {
+  background-color: #12d3cf;
+  margin: 0;
+}
+li{
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+}
+label{
+  font-family: 'PT Sans', sans-serif;
+  color: #f4f9f4;
+}
+h1{
+  color: #f4f9f4;
+  text-align: center;
+}
+li{
+  color: #f4f9f4;
+}
+form{
+  
+}

@@ -1,18 +1,40 @@
 body {
-  background-color: #60A9A6;
+  background-color: #12d3cf;
   margin: 0;
 }
 p {
   color: #f4f9f4;
   text-align: center;
-}
+  font-size: 24px;
+  font-family: 'PT Sans', sans-serif;
 
+}
+table{
+  color: #f4f9f4;
+  font-family: 'PT Sans', sans-serif;
+}
+ol{
+  color: #f4f9f4;
+  font-family: 'PT Sans', sans-serif;
+}
+li{
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+}
+tr{
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
+}
+ul{
+  color: #f4f9f4;
+  font-family: 'PT Sans', sans-serif;
+}
 h1{
   color: #f4f9f4;
   text-align: center;
   margin: 0 auto 0 auto;
+  font-family: 'PT Sans', sans-serif;
 }
-
 img {
    margin-left: 530px;
 }
@@ -20,6 +42,8 @@ img {
 
 h3{
   color: white;
+  text-align: center;
+  font-family: 'PT Sans', sans-serif;
 }
 
 hr {
@@ -28,4 +52,9 @@ hr {
   border-color: white;
   border-width: 5px;
   width: 30%;
+}
+a{
+  text-align: center;
+  font-size: 24px;
+  font-family: 'PT Sans', sans-serif;
 }
