@@ -1,5 +1,5 @@
 body {
-  background-color: #12d3cf;
+  background-color: #23eae6;
   margin: 0;
 }
 h1{
@@ -20,4 +20,24 @@ a{
   text-align: center;
   font-size: 24px;
   font-family: 'PT Sans', sans-serif;
+}
+.navigation ul li a {
+  display: inline-block;
+  margin: 0 50px;
+  color: inherit;
+  font-size: 18px;
+  font-weight: normal;
+  text-transform: capitalize;
+  letter-spacing: .05em;
+}
+.navigation ul li a:hover,
+.navigation ul li .active a {
+  color: #f4f9f4;
+}
+hr {
+  border-style: none;
+  border-top-style:ridge;
+  border-color: white;
+  border-width: 5px;
+  width: 30%;
 }
