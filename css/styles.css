@@ -1,95 +1,10 @@
-body {
-  background-color: #23eae6;
-  margin: 0;
-}
-p {
-  color: #f4f9f4;
-  text-align: center;
-  font-size: 24px;
-  font-family: 'PT Sans', sans-serif;
-
-}
-table{
-  color: #f4f9f4;
-  font-family: 'PT Sans', sans-serif;
-}
-ol{
-  color: #f4f9f4;
-  font-family: 'PT Sans', sans-serif;
-}
-li{
-  text-align: center;
-  font-family: 'PT Sans', sans-serif;
-}
-tr{
-  text-align: center;
-  font-family: 'PT Sans', sans-serif;
-}
-ul{
-  color: #f4f9f4;
-  font-family: 'PT Sans', sans-serif;
-}
 h1{
-  color: #f4f9f4;
-  text-align: center;
-  margin: 0 auto 0 auto;
-  font-family: 'PT Sans', sans-serif;
+  color: #fff;
 }
-img {
-   margin-left: 530px;
-}
-
-
-h3{
-  color: white;
-  text-align: center;
-  font-family: 'PT Sans', sans-serif;
-  font-size: 24px;
-}
-
-hr {
-  border-style: none;
-  border-top-style:ridge;
-  border-color: white;
-  border-width: 5px;
-  width: 30%;
-}
-a{
-  text-align: center;
-  font-size: 24px;
-  font-family: 'PT Sans', sans-serif;
-}
-label{
-  font-family: 'PT Sans', sans-serif;
-  color: #f4f9f4;
-}
-/* nav bar background color */
-.navigation{
+.header{
   background-color: blue;
-  overflow: hidden;
-  margin: auto;
 }
-/* tab style */
-.navigation a{
-  float: left;
-  color: black;
+h1.header{
   text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px
-
-
-}
-/* color of tabs on hover */
-.navigation a:hover{
-  background-color: #23eae6;
-  color: #f4f9f4;
-}
-/* color of active tab*/
-.navigation .active{
-  background-color: #23eae6;
-  color: #f4f9f4;
-}
-.nav{
-  text-align: right;
+  color: #fff;
 }
